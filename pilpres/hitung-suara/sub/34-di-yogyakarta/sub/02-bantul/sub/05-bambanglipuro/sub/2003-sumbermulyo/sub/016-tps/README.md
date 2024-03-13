@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 101
+    bar [45, 101, 60]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 45
+    "2" : 101
+    "3" : 60
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 45    | [45][p-1]   | 21,84      |
+| 2   | PRABOWO GIBRAN | 101   | [101][p-2]  | 49,03      |
+| 3   | GANJAR MAHFUD  | 60    | [60][p-3]   | 29,13      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/34-di-yogyakarta/sub/02-bantul/sub/05-bambanglipuro/sub/2003-sumbermulyo/sub/016-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/34-di-yogyakarta/sub/02-bantul/sub/05-bambanglipuro/sub/2003-sumbermulyo/sub/016-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/34-di-yogyakarta/sub/02-bantul/sub/05-bambanglipuro/sub/2003-sumbermulyo/sub/016-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/12bb/pemilu/ppwp/34/02/05/20/03/3402052003016-20240214-194755--1cba99ea-6615-452a-8974-8819790f259b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/12bb/pemilu/ppwp/34/02/05/20/03/3402052003016-20240214-194803--43da7848-c6d5-41c0-bdb9-ddd5eb65c9ea.jpg
+
+https://sirekap-obj-formc.kpu.go.id/12bb/pemilu/ppwp/34/02/05/20/03/3402052003016-20240215-003305--79bbe781-be19-49fa-af61-adb467cfad93.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 00:41:44 |
+
+
+

@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 74
+    bar [20, 74, 70]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 20
+    "2" : 74
+    "3" : 70
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 20    | [20][p-1]   | 12,20      |
+| 2   | PRABOWO GIBRAN | 74    | [74][p-2]   | 45,12      |
+| 3   | GANJAR MAHFUD  | 70    | [70][p-3]   | 42,68      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/34-di-yogyakarta/sub/03-gunungkidul/sub/15-saptosari/sub/2007-planjan/sub/004-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/34-di-yogyakarta/sub/03-gunungkidul/sub/15-saptosari/sub/2007-planjan/sub/004-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/34-di-yogyakarta/sub/03-gunungkidul/sub/15-saptosari/sub/2007-planjan/sub/004-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/0365/pemilu/ppwp/34/03/15/20/07/3403152007004-20240215-022606--ac263d1b-41b4-47e7-855c-c8df5ca45755.jpg
+
+https://sirekap-obj-formc.kpu.go.id/0365/pemilu/ppwp/34/03/15/20/07/3403152007004-20240215-022632--e613acab-6df4-4c8c-8b4b-fc710b08c07c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/0365/pemilu/ppwp/34/03/15/20/07/3403152007004-20240215-022654--2cd66d99-a9c4-43fb-a6b2-163727cd7558.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 12:00:28 |
+
+
+
